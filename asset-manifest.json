@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calsi/static/css/main.2c707f15.chunk.css",
-    "main.js": "/calsi/static/js/main.f92f6c67.chunk.js",
-    "main.js.map": "/calsi/static/js/main.f92f6c67.chunk.js.map",
+    "main.js": "/calsi/static/js/main.5816197b.chunk.js",
+    "main.js.map": "/calsi/static/js/main.5816197b.chunk.js.map",
     "runtime-main.js": "/calsi/static/js/runtime-main.267bfcf1.js",
     "runtime-main.js.map": "/calsi/static/js/runtime-main.267bfcf1.js.map",
     "static/css/2.de424728.chunk.css": "/calsi/static/css/2.de424728.chunk.css",
     "static/js/2.94e5daf0.chunk.js": "/calsi/static/js/2.94e5daf0.chunk.js",
     "static/js/2.94e5daf0.chunk.js.map": "/calsi/static/js/2.94e5daf0.chunk.js.map",
     "index.html": "/calsi/index.html",
-    "precache-manifest.f54d371010ea5eac73528059e82f382d.js": "/calsi/precache-manifest.f54d371010ea5eac73528059e82f382d.js",
+    "precache-manifest.a8379221dd820ca30169f1d465465469.js": "/calsi/precache-manifest.a8379221dd820ca30169f1d465465469.js",
     "service-worker.js": "/calsi/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/calsi/static/css/2.de424728.chunk.css.map",
     "static/css/main.2c707f15.chunk.css.map": "/calsi/static/css/main.2c707f15.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.94e5daf0.chunk.js",
     "static/css/main.2c707f15.chunk.css",
-    "static/js/main.f92f6c67.chunk.js"
+    "static/js/main.5816197b.chunk.js"
   ]
 }
